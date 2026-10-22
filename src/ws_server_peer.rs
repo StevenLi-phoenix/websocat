@@ -72,7 +72,7 @@ Example: Dump all incoming websocket data to console
 
 Example: the same, but more verbose:
 
-    websocat ws-l:tcp-l:127.0.0.1:8808 reuse:-
+    websocat ws-u:tcp-l:127.0.0.1:8808 reuse:-
 "#
 );
 
