@@ -99,7 +99,7 @@ WebSocket UNIX socket-based server. [A]
 specifier_alias!(
     name = WsAbstractUnixServerClass,
     prefixes = ["l-ws-abstract:"],
-    alias = "ws-l:abstract-l:",
+    alias = "ws-u:abstract-l:",
     help = r#"
 WebSocket abstract-namespaced UNIX socket server. [A]
 "#
